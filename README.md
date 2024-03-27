@@ -53,6 +53,7 @@ Rice, wheat and pulse perormnce dashboard
 ![kharif](https://github.com/Chio-ux/project/assets/150048164/6d879f77-0663-47ba-9362-ed0b27220f7f)
 
 3. The third dashboard shows the perormance of other crops apart rom rice, wheat and pulses. The blue colour gradient is used to identify those with high or low yield.
+
 ![others](https://github.com/Chio-ux/project/assets/150048164/b17cc7a2-3459-4663-b3cc-6ba692fea293)
 
 ### Conclusion and recommendations:
